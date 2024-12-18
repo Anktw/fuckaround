@@ -95,7 +95,7 @@ export default function FrameworksPage() {
   return (
     <div className="space-y-8">
       <h1 className="text-4xl font-bold text-center">
-        Ridiculous Frameworks for Accidental Discoveries
+        Ridiculous Frameworks
       </h1>
       <p className="text-center text-xl">
         Because who needs a plan when you can have a laugh?

@@ -56,7 +56,7 @@ export default function PhilosophyPage() {
 
   return (
     <div className="space-y-8">
-      <h1 className="text-4xl font-bold text-center">The Profound Philosophy of "Going Around ∝ Find Out"</h1>
+      <h1 className="text-4xl font-bold text-center">The Fuck Around Philosophy</h1>
       <p className="text-center text-xl">Prepare for enlightenment... or confusion. Possibly both.</p>
       
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">

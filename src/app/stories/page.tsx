@@ -49,7 +49,7 @@ const accidentalDiscoveryData = [
 export default function StoriesPage() {
   return (
     <div className="space-y-12">
-      <h1 className="text-4xl font-bold text-center">Hilarious Tales of Accidental Discoveries</h1>
+      <h1 className="text-4xl font-bold text-center">Literally every story you've ever heard of</h1>
       <p className="text-center text-xl">Because sometimes, the best finds are the ones you weren't looking for!</p>
       
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">

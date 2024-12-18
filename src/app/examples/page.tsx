@@ -55,7 +55,7 @@ export default function ExamplesPage() {
 
   return (
     <div className="space-y-8">
-      <h1 className="text-4xl font-bold text-center">Exemplary Examples of Exploration Escapades</h1>
+      <h1 className="text-4xl font-bold text-center">Cool Examples</h1>
       <p className="text-center text-xl">Real* stories of people who went around and found out!</p>
       
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
