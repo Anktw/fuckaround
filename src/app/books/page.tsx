@@ -82,7 +82,6 @@ export default function BooksPage() {
     <div className="space-y-8 p-6 bg-gradient-to-b from-background to-muted">
       <h1 className="text-4xl font-bold text-center">The Fuck Around and Find Out Library</h1>
       <p className="text-center text-xl">Warning: Reading these books may lead to unintended consequences and accidental wisdom!</p>
-      
       <Tabs defaultValue="books" className="w-full">
         <TabsList className="grid w-full grid-cols-2">
           <TabsTrigger value="books">Book List</TabsTrigger>
